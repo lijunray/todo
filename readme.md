@@ -3,16 +3,16 @@ Simplest Todo List App.
 ### Installation
 Make sure you have node.js.
 ```
-npm install
+$ npm install
 ```
 or
 ```
-npm i
+$ npm i
 ```
 
 ### Build(Watch)
 ```
-npm run watch
+$ npm run watch
 ```
 or 
 ```
